@@ -42,7 +42,7 @@ In this task, I explored how pre-trained models like **DALL·E Mini** can genera
 ## 📸 Sample Output
 
 **Prompt:** *“A futuristic city floating in the sky during sunset”*  
-> *(Insert image here if uploading later)*
+[LandScape with Flowers](images/dall-e mini.png)
 
 ---
 
@@ -60,8 +60,8 @@ In this task, I explored how pre-trained models like **DALL·E Mini** can genera
 
 ## 📬 Connect With Me
 **Tanmay Margaj**  
-🔗 [LinkedIn](https://www.linkedin.com/) *(Insert your profile link)*  
-📧 *(Insert your email or portfolio if you'd like)*
+🔗 [LinkedIn](www.linkedin.com/in/tanmay-margaj-5598542bb)   
+📧 tanmaymargaj35@gmail.com 
 
 ---
 
