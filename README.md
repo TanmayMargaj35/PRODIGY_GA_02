@@ -42,7 +42,7 @@ In this task, I explored how pre-trained models like **DALL·E Mini** can genera
 ## 📸 Sample Output
 
 **Prompt:** "A Landscape with Flowers"
-
+(task02.png)
 ---
 
 ## ✅ Status
