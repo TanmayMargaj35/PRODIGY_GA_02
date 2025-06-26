@@ -42,8 +42,9 @@ In this task, I explored how pre-trained models like **DALL·E Mini** can genera
 ## 📸 Sample Output
 
 **Prompt:** "A Landscape with Flowers"
-(task02.png)
----
+<p align="center">
+  <img src="task02.png" alt="Cover" width="400"/>
+</p>
 
 ## ✅ Status
 ✔️ **Task Completed** – Submitted as part of Task 02 for my internship at **Prodigy Infotech**.
